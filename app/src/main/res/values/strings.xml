@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Miskaa assignment</string>
+    <string name="deleteBtn">Delete</string>
+    <string name="refreshBtn">Refresh</string>
+    <string name="nameTv">Name :</string>
+    <string name="capitalTv">Capital :</string>
+    <string name="regionTv">Region :</string>
+    <string name="subregionTv">Subregion</string>
+    <string name="populationTv">Population</string>
+    <string name="bordersTv">Borders :</string>
+    <string name="languagesTv">Languages:</string>
+</resources>
